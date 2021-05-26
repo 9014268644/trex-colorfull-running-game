@@ -1,1 +1,1 @@
-# trex-colorfull-running-game
+# trex-runner-
